@@ -1,5 +1,5 @@
 # Copy-unique-urls
-# HTTP Request Sniffer Chrome Extension / HTTP请求捕获器 Chrome扩展
+# 一款AI生成的HTTP Request Sniffer Chrome Extension / HTTP请求捕获器 Chrome扩展插件
 
 
 ## 英文版

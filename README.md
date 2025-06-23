@@ -100,5 +100,5 @@ A Chrome extension that captures and displays all XHR/Fetch requests made by the
 MIT License - 开源项目，可自由使用和修改
 
 ## 展示
-![image](https://github.com/user-attachments/assets/ab017aca-f264-4238-baec-1ec172e1e03a)
+![image](https://github.com/user-attachments/assets/89e9ec81-1582-482a-ae4a-5a4d09d6a74b)
 

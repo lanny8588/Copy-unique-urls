@@ -99,8 +99,6 @@ A Chrome extension that captures and displays all XHR/Fetch requests made by the
 ## 📜 License / 许可证
 MIT License - 开源项目，可自由使用和修改
 
-## 🤝 Contributing / 贡献
-欢迎提交Pull Request或Issue报告问题
+## 展示
+![image](https://github.com/user-attachments/assets/ab017aca-f264-4238-baec-1ec172e1e03a)
 
-## ✉ Contact / 联系
-如有问题请联系: [your-email@example.com](mailto:your-email@example.com)
